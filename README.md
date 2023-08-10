@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My Portfolio [[[https://renansm93.github.io/My-Portfolio/]]]
+- 👨‍💻 My Portfolio [[[https://renansm93.github.io/React_Portfolio/]]]
 
 - 📫 How to reach me **rs.miranda93@gmail.com**
 
